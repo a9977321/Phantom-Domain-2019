@@ -8,6 +8,10 @@ Last updated by a9977321 on Sept. 17th, 2019
 
 Victory conditions will be given at the beginning of the game. A partial profile will be publicated at the game beginning, which contains 1 ability for each player and the aliiance info of its owner as well as the flag info of good players. 
 
+General:
+
+- A "revealed" means ....
+- A "rule" means ...
 
 
 Player1
@@ -20,7 +24,7 @@ Victory Condition: 1. Survive until all players from Alliance Good are defeated;
 
 Ability_Mastermind: You start the game with the alliance info of all players from Alliance Good. (rule)(revealed)
 
-Ability_trickster: You will not have access to phantom area until day16 without making requests.You got 1 token on day1, day6 and day11 if you do not request the access.   (rule)
+Ability_trickster: You will not have access to phantom area until day16 without making requests.You got 1 token on day1, 1.5 tokens on day6 and 2 tokens day11 if you do not request the access.   (rule)
 
 Ability_Unstoptable: Your mod helper units and vacant mod piperunner can clear units in the way. The target is determined by the route to the destination. (rule)
 
@@ -38,6 +42,7 @@ Victory Condition: 1. Survive until all players from Alliance Good are defeated;
 Ability_Curse: Select a player and name his flag. If flag condition matches the target player will receive buffs/debuffs based on the alliance. Good player becomes an available target of all mod helper units & piperunner for 5 days. Neutral player received 0.5* tokens from the lab for the next 10 days(unable to stack). Evil player receives 1 token.The ability can be activated every 5 days.  (active)(revealed)
 
 Ability_token_info: You received a token info at the beginning of day6 and every 5 days afterward. (rule)
+token info will be shown on following format:...
 
 Ability_Mr_Anonymous: You can send anonymous messages for free(rule). 
 
@@ -54,8 +59,10 @@ Flag=true
 Victory Condition: 1. Obtain the flag info of all players. 2. Survive until Condition1 is met. 3. No other victory condition is met. 
 
 Notes regarding Condition1: You can attempt to guess every 5 days. Send a message to mod to do so. 
+you can guess by format s.t.: "FTTTFTTF" (T means this player Flag = true while F means false , the No.X letter means Xth player.)
+when you attempt fails, you will get a number that how many guesses are right.
 
-Ability_Flag_detector: The flag info of defeated players will be revealed in a broadcast. (rule)(revealed)
+Ability_Flag_detector: You can choose if the flag info of defeated players will be revealed in a broadcast. (rule)(revealed)
 
 Ability_Hacker: You can choose a player and name his flag. If the flag condition matches you will steal a token from target player. The attempt fails if target player has no tokens. The ability can be used every 5 days. The ability will be disabled if the flag condtion does not match. (active)
 
@@ -90,12 +97,14 @@ Alliance: Good
 Flag=True
 
 Victory Condition: 1. Survive until all players from Alliance Evil are defeated; 2. No other victory condition is met
-Ability_Lv1_Oracle: You will be given the name of 3 players who come from all three alliance. (rule)(revealed)
+Ability_Lv1_Oracle: You will be random given the name of 3 players who come from all three alliance. (rule)(revealed)
+note that yourself may be included.
 
-Ability_APC_factory: You can send a mod APC after yourself for free every day. (active)
+Ability_APC_factory: You can send a mod APC target yourself for free every day. (active)
+this APC cant be see a replacement of HQ even in same location.
 
 Ability_Avenger: When you become the target of mod piperunner or mod units players doing so will receive the same service. (passive)
-
+APC_factory wont active this passive.
 
 
 
