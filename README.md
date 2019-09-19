@@ -6,7 +6,7 @@ Phantom Domain Document 2019 Alpha
 Profile Setting
 Last updated by a9977321 on Sept. 17th, 2019
 
-Victory conditions will be given at the beginning of the game. A partial profile will be given at the game beginning, which contain 1 ability for each player and the aliiance info of its owner as well as the flag info of good players. 
+Victory conditions will be given at the beginning of the game. A partial profile will be publicated at the game beginning, which contain 1 ability for each player and the aliiance info of its owner as well as the flag info of good players. 
 
 Player1
 Alliance: Evil(phantom)
