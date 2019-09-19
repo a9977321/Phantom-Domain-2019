@@ -116,11 +116,12 @@ Alliance: Good
 Flag=False
 
 Victory Condition: 1. Survive until all players from Alliance Evil are defeated; 2. No other victory condition is met
-Ability_Judgment_Day: You can spend 10 tokens and defeat all players from Alliance Evil. The ability can be activated since day40. (active)(revealed)
+Ability_Judgment_Day: You can spend 10 tokens and defeat all players from Alliance Evil. The ability can be activated since day35. (active)(revealed)
+You need 6 days to achieve this ability, once you defeated/silenced during this period will let this ability make no sense. (tokens will refunded and you can using it again after 5 days cooldown.) Evil player will be alarmed when you use this ability.
 
 Ability_Immortality: You can continue playing the game after your defeat. (rule)
 
-Ability_The_Pit: Mod helper units on your properties & your HQ city will be deleted. (Rule)
+Ability_The_Pit: you can choose if mod helper units on your properties & your HQ city will be deleted. (Rule/switcher)
 
 
 
