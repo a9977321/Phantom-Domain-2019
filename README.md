@@ -60,9 +60,8 @@ Victory Condition: 1. Obtain the flag info of all players. 2. Survive until Cond
 
 Notes regarding Condition1: You can attempt to guess every 5 days. Send a message to mod to do so. 
 you can guess by format s.t.: "FTTTFTTF" (T means this player Flag = true while F means false , the No.X letter means Xth player.)
-when you attempt fails, you will get a number that how many guesses are right.
 
-Ability_Flag_detector: You can choose if the flag info of defeated players will be revealed in a broadcast. (rule)(revealed)
+Ability_Flag_detector: The flag info of defeated players will be revealed in a broadcast. (rule)(revealed)
 
 Ability_Hacker: You can choose a player and name his flag. If the flag condition matches you will steal a token from target player. The attempt fails if target player has no tokens. The ability can be used every 5 days. The ability will be disabled if the flag condtion does not match. (active)
 
@@ -101,7 +100,6 @@ Ability_Lv1_Oracle: You will be random given the name of 3 players who come from
 note that yourself may be included.
 
 Ability_APC_factory: You can send a mod APC target yourself for free every day. (active)
-this APC cant be see a replacement of HQ even in same location.
 
 Ability_Avenger: When you become the target of mod piperunner or mod units players doing so will receive the same service. (passive)
 APC_factory wont active this passive.
