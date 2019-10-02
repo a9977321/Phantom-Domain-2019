@@ -96,7 +96,7 @@ Alliance: Good
 Flag=True
 
 Victory Condition: 1. Survive until all players from Alliance Evil are defeated; 2. No other victory condition is met
-Ability_Lv1_Oracle: You will be random given the name of 3 players who come from all three alliance. (rule)(revealed)
+Ability_Lv1_Oracle:  At the beginning of day1, mod will send you a name list consisting of 3 players, who are from three different alliances.
 note that yourself may be included.
 
 Ability_APC_factory: You can send a mod APC target yourself for free every day. (active)
