@@ -1,0 +1,25 @@
+Idea: Should we give out chances to upgrade "revealed" abilities as a prize for being the sole winner? 
+For instance Ability_lv1_oracle can be upgraded into lv2, confirming the alliance of the good player in the combination. 
+
+The usual unique ability is the other alternative. 
+
+Current proposal
+DAY/Usual Prize/Extra Prize
+DAY5/ 1 token/ 1 token
+Day10/ 1 token/ Ability upgrade
+Day15/ 4-token-value mod unit pack/ Mod lab info of day5, 10, 15
+Day20/ Free mod unit purchase list*1/ Ability upgrade
+Day25/ 3 tokens/ Ability upgrade
+Day30/ 
+
+Ability upgrade can be replaced by other small/big abilities. 
+Examples: Ability_Lottery_bonus: You got 1 token when you win the APC lottery. (passive)
+Ability_Alarm: You got alarmed when you become the target of an ability/mod helper units/ mod piperunner. The info includes the 
+source player and ability info/mod helper unit type. (passive)
+Ability_Fortune_teller: Message mod a statement and mod will answer with True/False/No idea. The ability can be used only once. (active)
+Ability_Piperunner_discount: Mod piperunner service costs you 1 less token. (rule)
+Ability_Info_master: Mod lab info/mod unit purchase list costs only 1 token each. (rule)
+Ability_EMP: Select a player. Target player got all his abilities disabled for 5 turns. The ability can be activated only once. (active)
+Ability_Scale_of_the_Justice: Redistribute all tokens in player account (rounded up). The ability can be activated only once. (active)
+Ability_Bolt: You can destroy any mod helper unit on a tile in the main map by spending 2 tokens and naming the location (x, y). 
+The ability can be used every 5 days. (active)
