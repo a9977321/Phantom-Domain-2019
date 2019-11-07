@@ -11,7 +11,7 @@ Victory conditions will be publicated together with the partial profile.
 General:
 
 - A "revealed" means the ability is included in the partial profile to be publicated at the beginning of the game. 
-- A "rule" means ... "Active" means the ability needs to be activated by the user and handled by mod like a request. 
+"Active" means the ability needs to be activated by the user and handled by mod like a request. 
 "Passive" means the ability is automatically triggered once the prerequisities are met. 
 "Rule" means the ability is not triggered to take effect and rather works as a part of the rule. 
 - 0.5 tokens will be recorded by mod as well as given in the token info. 
@@ -27,7 +27,7 @@ Victory Condition: 1. Survive until all players from Alliance Good are defeated;
 
 Ability_Mastermind: You start the game with the alliance info of all players from Alliance Good. (passive)(revealed)
 
-Ability_trickster: You will not have access to phantom area until day16 without making requests.You got 1 token on day1, 1.5 tokens on day6 and 2 tokens day11 if you do not request the access.   (passive)
+Ability_trickster: You will not have access to phantom area until day16 without making requests.You got 1 token on day1, 1.5 tokens on day6 , 2 tokens on day11 and 3 tokens on day16 if you do not request the access.   (passive)
 
 Ability_Unstoptable: Your mod helper units and vacant mod piperunner can clear units in the way. The target is determined by the route to the destination. (rule)
 
@@ -119,7 +119,9 @@ Flag=False
 
 Victory Condition: 1. Survive until all players from Alliance Evil are defeated; 2. No other victory condition is met
 
-Ability_Judgment_Day: You can spend 10 tokens and all players of Alliance Evil will be defeated 6 days later. The ability can be activated since day35. A broadcast will be sent when the ability is activated. The process will stop if you get defeated or become the victim of possible silencing ability. In those cases tokens will refunded and the ability starts a 5-day cooldown. (active)(revealed)
+Ability_Judgment_Day: You can spend 10 tokens and all players of Alliance Evil will be defeated 6 days later. The ability can be activated since day35. A broadcast will be sent when the ability is activated. The process will be interrupted if you get defeated or become the victim of possible silencing ability. In those cases tokens will refunded and the ability starts a 5-day cooldown. (active)(revealed)
+
+*You can activate this skill after your defeat and it can only be interrupted by possible silencing abilities in that case. (You cannot be defeated twice)
 
 Ability_Immortality: You can continue playing the game after your defeat. (rule)
 
