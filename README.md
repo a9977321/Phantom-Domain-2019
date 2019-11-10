@@ -81,7 +81,7 @@ Alliance: Neutral
 
 Flag=False
 
-Victory Condition: 1 Obtain 25 tokens. 2 Survive until other players met their victory condition. 
+Victory Condition: 1 Obtain 20 tokens. 2 Survive until other players met their victory condition. 
 
 Ability_Commander: Mod helper units cost 1 token less. (rule)(revealed)
 
