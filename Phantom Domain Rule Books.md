@@ -44,6 +44,7 @@ If anyone has their win condition fulfilled, Mod will alert the rest of the play
 [Reuturn to top](#phantom-domain-rule-books)
 
 ### Explanation of HQ Area:
+![HQ Area in pocket editon](pics/HQ_Area_pocket.jpg)  
 If a player is actively trying to break the rules, is considered defeated, or another player's victory condition is met, the infantry in this area will remove that player from the game. Abilities might be contrast to 2nd case.  
 Removing players from the game in this way ensures a fast turn cycle.  
 The mod has no other purpose for this infantry and will not capture all HQ`s as a joke.  
