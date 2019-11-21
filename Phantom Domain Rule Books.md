@@ -22,6 +22,8 @@ The game is not truly free for all however due to the presence of roles (*refer 
 The mod is not truly a player and is there to ensure the experience of the game does not go awry.  
 If anyone has their win condition fulfilled, Mod will alert the rest of the players through broadcast to set draw and will eliminate all losers through means of the northeast HQ area.  
 
+[Reuturn to top](#phantom-domain-rule-books])
+
 ## MAP
 
 ### Explanation of HQ Area:
