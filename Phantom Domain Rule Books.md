@@ -3,11 +3,15 @@
 ## SET UP  
 
 - Fog: On
-- Sonja Banned (*South Segment Problems*)
-- Broken Five Banned (*Grit*,*Kanbei*, *Sensei*, *Hachi*,*Colin*)
-- Sturm, Rachel, Von Bolt, Drake, Hawke, Olaf, Kindle Banned (*Damage Abilities*)
-- Sasha (*OP power for FFA*)
 - Lab Gating: Preferably None (*Maybe something to try at a later date with this setup.*)
+- Following COs are **banned**:  
+
+Banned CO | Reason
+------------ | -------------
+Sonja | South Segment Problems
+Grit , Kanbei , Sensei ,  Hachi , Colin | Broken Five
+Sturm, Rachel, Von Bolt, Drake, Hawke, Olaf, Kindle | Damage Abilities
+Sasha | OP power for FFA
 
 Orange Star **has to be Javier** and OS will be the games ***"Moderator"***.  
 (*OS will be referred to as **mod** from now on*)  
@@ -77,22 +81,22 @@ Roles are formatted as the following: (Examples Below)
   - **Alliance**: Evil (Phantom)  
   - **Victory Condition**: 
     1. All players with the "Good" alliance are defeated.  
-	2. At least one member of alliance evil survives. 
-	3. No other victory condition is met.  
+    2. At least one member of alliance evil survives. 
+    3. No other victory condition is met.  
   - **Abilitiy_example_ability1**: You may attempt to steal 1 to 6 tokens (at random) from another target country. The ability can be activated on day5 and every 5 days afterward. *(active)*
 - **Player2**
   - **Alliance**: Neutral
   - **Victory Condition**: 
     1. Win APC lottery for 4 times. 
-	2. Survive until condition1 is met. 
-	3. No other victory condition is met.
+    2. Survive until condition1 is met. 
+    3. No other victory condition is met.
   - **Ability_example_ability2**: You will be warned whenever a player sends a mod helper unit after you. *(This will be a private press message including unit type and country who is sending it.)* *(passive)*
 - **Player3**
   - **Alliance**: Good
   - **Win Condition**: 
     1. All players with the "Evil" alliance are defeated. 
-	2. At least one good player survives. 
-	3. No other victory condition is met.
+    2. At least one good player survives. 
+    3. No other victory condition is met.
   - **Ability_example_ability3**: You have knowledge of all players token count. (rule)
 
 Defeating Players: A player is considered defeated when one of the following conditions is met:  
@@ -122,17 +126,22 @@ Processing order
 *--END TURN--*
 
 ## MISC.
-[Phantom Domain Alpha](http://awbw.amarriner.com/prevmaps.php?maps_id=66452)  
-[Phantom Domain Beta](http://awbw.amarriner.com/prevmaps.php?maps_id=66497)  
-[Phantom Domain](http://awbw.amarriner.com/prevmaps.php?maps_id=67885)  
-[Phantom Domain Pocket Edition](http://awbw.amarriner.com/prevmaps.php?maps_id=69419)  
-[Pocket version in use](https://awbw.amarriner.com/prevmaps.php?maps_id=70399)  
 
-Press and Broadcasts are encouraged and you will have your tokens tracked for
-you by the Mod.  
+### Histroy Version
 
-*--Leave a comment with any questions you have!--*
+Map | Creator | Publish time
+--- | -------- | ----
+[Phantom Domain Alpha](http://awbw.amarriner.com/prevmaps.php?maps_id=66452) | [Urbani](https://awbw.amarriner.com/profile.php?username=Urbani) | 04/03/2015 
+[Phantom Domain Beta](http://awbw.amarriner.com/prevmaps.php?maps_id=66497) |  [Urbani](https://awbw.amarriner.com/profile.php?username=Urbani) | 04/08/2015 
+[Phantom Domain](http://awbw.amarriner.com/prevmaps.php?maps_id=67885) | [Urbani](https://awbw.amarriner.com/profile.php?username=Urbani) | 01/04/2016
+[Phantom Domain Pocket Edition](http://awbw.amarriner.com/prevmaps.php?maps_id=69419) | [Urbani](https://awbw.amarriner.com/profile.php?username=Urbani) | 09/05/2016
+[Pocket version in use](https://awbw.amarriner.com/prevmaps.php?maps_id=70399) | [a9977321](https://awbw.amarriner.com/profile.php?username=a9977321) | 02/03/2017
 
 ### Game Record
 - 4 tower test Feb.5th, 2017-Sept.5th, 2017 Day29 Evil Victory: ichbinsehselber, Jackie Milton
 phantom domain November Feb. 22nd, 2018- ongoing
+
+### Last Word
+Press and Broadcasts are encouraged and you will have your tokens tracked for you by the Mod.  
+
+*--Leave a comment with any questions you have!--*
