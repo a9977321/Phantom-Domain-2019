@@ -54,6 +54,7 @@ The mods backup plan for you doing this is to send an arbitrarily large number o
 [Return to Section Menu](#map) | [Reuturn to top](#phantom-domain-rule-books)
 
 ### Explanation of NW APC Area:
+![NW APC Area in pocket editon](pics/NW_APC_Area_pocket.jpg)  
 At the start of the fifth day and every five days afterwords, The mod will publicly announce the winner(s) of the APC Lottery. (But not what they win.)  
 To play the game, move your APC into one of the three available forests (top, middle or bottom).
 The players in the row of forests with the least number of APCs are the winners.  
@@ -64,12 +65,14 @@ Players that gain vision of the Megatank(through their APC vision) are not allow
 [Return to Section Menu](#map) | [Reuturn to top](#phantom-domain-rule-books)
 
 ### Explanation of NE Towers:
+![NE Towers in pocket editon](pics/NE_Towers_pocket.jpg)  
 Not intractable and serves to make some of the mods units much more difficult to kill.  
 Also prevents some stupid luck things that could happen in the North East area.  
 
 [Return to Section Menu](#map) | [Reuturn to top](#phantom-domain-rule-books)
 
 ### Explanation of North West:  
+![North West in pocket editon](pics/North_West_pocket.jpg)  
 At the start of the game, Mod will choose one (or more) player to be the Phantom anonymously.  
 The mega tanks in the SW corner will cover the non-phantom players factories and leave the phantom the whole NW quadrant to capture giving them an advantage.  
 Rivers around the factories prevent the phantom from building non-infantry units in that area.
@@ -78,6 +81,7 @@ Phantom players gain access to NW Area through abilities granting them the acces
 [Return to Section Menu](#map) | [Reuturn to top](#phantom-domain-rule-books)
 
 ### Explanation of North East:  
+![North East in pocket editon](pics/North_East_pocket.jpg)  
 The NE corner contains the questing area.  
 The Mod recons will not attack the infantry here but serve as a blockade.  
 The recons will move back at the cost of tokens. (See tokens appendix).  
