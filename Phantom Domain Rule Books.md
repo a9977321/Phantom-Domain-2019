@@ -125,7 +125,7 @@ Processing order
 [Phantom Domain Alpha](http://awbw.amarriner.com/prevmaps.php?maps_id=66452)  
 [Phantom Domain Beta](http://awbw.amarriner.com/prevmaps.php?maps_id=66497)  
 [Phantom Domain](http://awbw.amarriner.com/prevmaps.php?maps_id=67885)  
-[Phantom Domain Pocket Edition](http://awbw.amarriner.com/prevmaps.php?maps_id=69419)
+[Phantom Domain Pocket Edition](http://awbw.amarriner.com/prevmaps.php?maps_id=69419)  
 [Pocket version in use](https://awbw.amarriner.com/prevmaps.php?maps_id=70399)  
 
 Press and Broadcasts are encouraged and you will have your tokens tracked for
