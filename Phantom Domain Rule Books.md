@@ -28,7 +28,7 @@ The game is not truly free for all however due to the presence of roles (*refer 
 The mod is not truly a player and is there to ensure the experience of the game does not go awry.  
 If anyone has their win condition fulfilled, Mod will alert the rest of the players through broadcast to set draw and will eliminate all losers through means of the northeast HQ area.  
 
-[Reuturn to top](#phantom-domain-rule-books)
+[Return to top](#phantom-domain-rule-books)
 
 ## MAP
 ### Section Menu
@@ -41,17 +41,17 @@ If anyone has their win condition fulfilled, Mod will alert the rest of the play
 7. [Main Map](#main-map)
 8. [Main Map Mod](#main-map-mod)
 
-[Reuturn to top](#phantom-domain-rule-books)
+[Return to top](#phantom-domain-rule-books)
 
 ### Explanation of HQ Area:
 ![HQ Area in pocket editon](pics/HQ_Area_pocket.jpg)  
 If a player is actively trying to break the rules, is considered defeated, or another player's victory condition is met, the infantry in this area will remove that player from the game. Abilities might be contrast to 2nd case.  
 Removing players from the game in this way ensures a fast turn cycle.  
-The mod has no other purpose for this infantry and will not capture all HQ`s as a joke.  
+The mod has no other purpose for this infantry and will not capture all HQ's as a joke.  
 Do not use this infantry for target practice if for some reason you can get a unit in range to fire upon it.  
 The mods backup plan for you doing this is to send an arbitrarily large number of mega tanks and make the game less fun for you.  
 
-[Return to Section Menu](#map) | [Reuturn to top](#phantom-domain-rule-books)
+[Return to Section Menu](#map) | [Return to top](#phantom-domain-rule-books)
 
 ### Explanation of NW APC Area:
 ![NW APC Area in pocket editon](pics/NW_APC_Area_pocket.jpg)  
@@ -62,14 +62,14 @@ Prizes scale upwards for being the sole winner.
 Prizes are up to the Mod's discretion (I suggest tokens in the early game and abilities or helpers later on.)  
 Players that gain vision of the Megatank(through their APC vision) are not allowed to fire on it.  
 
-[Return to Section Menu](#map) | [Reuturn to top](#phantom-domain-rule-books)
+[Return to Section Menu](#map) | [Return to top](#phantom-domain-rule-books)
 
 ### Explanation of NE Towers:
 ![NE Towers in pocket editon](pics/NE_Towers_pocket.jpg)  
 Not intractable and serves to make some of the mods units much more difficult to kill.  
 Also prevents some stupid luck things that could happen in the North East area.  
 
-[Return to Section Menu](#map) | [Reuturn to top](#phantom-domain-rule-books)
+[Return to Section Menu](#map) | [Return to top](#phantom-domain-rule-books)
 
 ### Explanation of North West:  
 ![North West in pocket editon](pics/North_West_pocket.jpg)  
@@ -78,7 +78,7 @@ The mega tanks in the SW corner will cover the non-phantom players factories and
 Rivers around the factories prevent the phantom from building non-infantry units in that area.
 Phantom players gain access to NW Area through abilities granting them the access.  
 
-[Return to Section Menu](#map) | [Reuturn to top](#phantom-domain-rule-books)
+[Return to Section Menu](#map) | [Return to top](#phantom-domain-rule-books)
 
 ### Explanation of North East:  
 ![North East in pocket editon](pics/North_East_pocket.jpg)  
@@ -86,19 +86,19 @@ The NE corner contains the questing area.
 The Mod recons will not attack the infantry here but serve as a blockade.  
 The recons will move back at the cost of tokens. (See tokens appendix).  
 
-[Return to Section Menu](#map) | [Reuturn to top](#phantom-domain-rule-books)
+[Return to Section Menu](#map) | [Return to top](#phantom-domain-rule-books)
 
 ### Explanations of NE labs:  
 NE labs serve as a flag area. In the profile each player will be given a flag condition. If it is false mod will delete the infantry on his lab on day1. Flag conditions can be used for abilities and victory conditions. Flag areas are designed to discourage vision sharing to protect the phantom.  
 
-[Return to Section Menu](#map) | [Reuturn to top](#phantom-domain-rule-books)
+[Return to Section Menu](#map) | [Return to top](#phantom-domain-rule-books)
 
 ### Main Map:  
 The map will normally start out as a eight-way free for all with the final goal of each player being to complete their roles victory condition.  
 Players are encouraged to form diplomatic groups as they try to complete their role's victory condition.  
 Players are allowed to interact with mod units however they would like. However, the mod must follow specific rules listed here.  
 
-[Return to Section Menu](#map) | [Reuturn to top](#phantom-domain-rule-books)
+[Return to Section Menu](#map) | [Return to top](#phantom-domain-rule-books)
 
 ### Main Map Mod:  
 The mod must immediately dive their central submarines. Recons and subs must be built accordingly.  
@@ -106,7 +106,7 @@ No mod units can attack unless otherwise stated. (See tokens appendix).
 
 The mod city at the spawning location serves as a HQ and the player is considered defeated if the city is captured unless an ability claiming not.  
 
-[Return to Section Menu](#map) | [Reuturn to top](#phantom-domain-rule-books)
+[Return to Section Menu](#map) | [Return to top](#phantom-domain-rule-books)
 
 ## ROLES
 
@@ -149,7 +149,7 @@ I don't always copy paste these exact role layouts but this is a good example.
 
 It is possible to have several phantoms in a game. If there is, they will share the South-most West corner.  
 
-[Reuturn to top](#phantom-domain-rule-books)
+[Return to top](#phantom-domain-rule-books)
 
 ## Processing Order
 
@@ -167,7 +167,7 @@ Processing order
 9. Take screenshots
 *--END TURN--*
 
-[Reuturn to top](#phantom-domain-rule-books)
+[Return to top](#phantom-domain-rule-books)
 
 ## MISC.  
 ### Section Menu  
@@ -175,7 +175,7 @@ Processing order
 2. [Game Record](#game-record)
 3. [Last Word](#last-word)
 
-[Reuturn to top](#phantom-domain-rule-books)
+[Return to top](#phantom-domain-rule-books)
 
 ### Histroy Version
 
@@ -187,17 +187,17 @@ Map | Creator | Publish time
 [Phantom Domain Pocket Edition](http://awbw.amarriner.com/prevmaps.php?maps_id=69419) | [Urbani](https://awbw.amarriner.com/profile.php?username=Urbani) | 09/05/2016
 [Pocket version in use](https://awbw.amarriner.com/prevmaps.php?maps_id=70399) | [a9977321](https://awbw.amarriner.com/profile.php?username=a9977321) | 02/03/2017
 
-[Return to Section Menu](#misc) | [Reuturn to top](#phantom-domain-rule-books)
+[Return to Section Menu](#misc) | [Return to top](#phantom-domain-rule-books)
 
 ### Game Record
 - 4 tower test Feb.5th, 2017-Sept.5th, 2017 Day29 Evil Victory: ichbinsehselber, Jackie Milton
 phantom domain November Feb. 22nd, 2018- ongoing
 
-[Return to Section Menu](#misc) | [Reuturn to top](#phantom-domain-rule-books)
+[Return to Section Menu](#misc) | [Return to top](#phantom-domain-rule-books)
 
 ### Last Word
 Press and Broadcasts are encouraged and you will have your tokens tracked for you by the Mod.  
 
 *--Leave a comment with any questions you have!--*
 
-[Return to Section Menu](#misc) | [Reuturn to top](#phantom-domain-rule-books)
+[Return to Section Menu](#misc) | [Return to top](#phantom-domain-rule-books)
