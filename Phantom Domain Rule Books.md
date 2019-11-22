@@ -2,6 +2,7 @@
 ## Menu
 1. [Set up](#set-up)
 2. [Map](#map)
+3. [Tokens](#tokens)
 3. [Roles](#roles)
 4. [Processing Order](#processing-order)
 5. [MISC.](#misc)
@@ -107,6 +108,78 @@ No mod units can attack unless otherwise stated. (See tokens appendix).
 The mod city at the spawning location serves as a HQ and the player is considered defeated if the city is captured unless an ability claiming not.  
 
 [Return to Section Menu](#map) | [Return to top](#phantom-domain-rule-books)
+
+## TOKENS
+### Section Menu
+1. [Tokens Appendix](#tokens-appendix)
+2. [Mod Labs](#mod-labs)
+3. [Token Purchases](#token-purchases)
+
+[Return to top](#phantom-domain-rule-books)
+
+### Tokens Appendix
+Everyone starts with zero tokens and tokens can only be gained in four ways.  
+Those ways are:  
+1. Sitting on Mod Labs - (See notes below.)  
+2. APC Lottery - (See notes under Map - Explanation of South.)  
+3. Role Abilities - (See examples under Roles.)  
+4. Donation from Another Player - At any time, you may private press message the mod and choose to donate any number of tokens you have to another player.  
+
+Possible uses include diplomacy or throwing other players off your trail by randomly changing your token count.    
+You may choose to donate anonymously or allow the mod to include your country.  
+Mod will press message you when your token count changes.  
+
+[Return to Section Menu](#tokens) | [Return to top](#phantom-domain-rule-books)
+
+### Mod Labs
+At the start of the fifth day and every five days afterwords, any player with a unit on top of a mod lab will receive a token.  
+You may capture mod labs however this will prevent the mod from seeing who is on top of them and therefore turning off their ability to give players tokens.  
+Tokens will be recorded by the mod and will be sent to you in a private press message.  
+
+[Return to Section Menu](#tokens) | [Return to top](#phantom-domain-rule-books)
+
+### Token Purchases
+
+#### SE Questing Area Purchase 
+*1 Token*  
+Moves a Mod recon back two spaces. (You may use this ability on other countries but if you don't specify it will be assumed you use it on your own.)  
+*NOTE: On the pocket edition map, each recon in your zone will instead move back one space each.*    
+#### Anonymous Mod Broadcast Message 
+*1 Token*  
+Private Press Message the Mod, they will broadcast your message anonymously.  
+#### Reconnaissance Scout  
+*2 Tokens*  
+Mod private press messages you a link to an image of the mod's central piperunner's, recon's, and sub's vision range. (You may share the link freely if you choose to.)  
+#### Mod Lab Information  
+*2 Tokens*  
+The mod messages you with all information of the current units on top of all mod labs. Info includes: Country, Fuel, Ammo, Health and Unit.  
+#### Activate Mod Piperunners  
+*3 Tokens*  
+Message Mod a country. For the next five days, Mod piperunners will be allowed to attack units of that country. (You may choose to target your own country.)  
+#### Helper Unit Purchase Log  
+*3 Tokens*  
+The mod messages you with the purchase history of mod units of target country. (Includes day sent, where it was sent, and what unit was sent.)  
+#### Mod Helper Units
+Message the Mod a country. Produces and sends the unit towards that country's base and only attacks that country's units. You may choose to target yourself.  
+
+Units | Cost
+------------ | -------------
+Mod Tank | 2 Tokens
+Mod Anti-Air | 2 Tokens 
+Mod Battle Copter | 3 Tokens
+Mod Medium Tank | 4 Tokens
+Mod Fighter | 4 Tokens
+Mod Neotank | 5 Tokens 
+Mod Bomber | 5 Tokens
+Mod Mega Tank | 6 Tokens
+
+Price **rises by 50%** for **each 2** extra towers OS obtained by HQ capping.
+
+Mod helper units will be produced at the facility closest to their target. When the facility is occupied mod will produce the units from the nearest facilities. Mod will use available piperunners(no other mission assigned) to clear the road tiles next to the subs when mod units cannot leave the base as a result of players' blocking.
+
+**Mod Helper units AI:** Mod helper units will move towards the original start location of the target country until they die. (factory--normal units&APC/airport--fighter&Tcopter)They will not attempt to refuel or repair and will attempt to attack the  unit with the highest cost within Mod's vision.  
+
+[Return to Section Menu](#tokens) | [Return to top](#phantom-domain-rule-books)
 
 ## ROLES
 
