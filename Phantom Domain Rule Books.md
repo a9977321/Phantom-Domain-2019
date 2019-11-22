@@ -22,7 +22,7 @@ Sasha | OP power for FFA
 
 Orange Star **has to be Javier** and OS will be the games ***"Moderator"***.  
 (*OS will be referred to as **mod** from now on*)  
-Mod units **cannot attack** unless they are produced by the effect of tokens (*see tokens appendix*).
+Mod units **cannot attack** unless they are produced by the effect of tokens (*see [tokens appendix](#tokens-appendix)*).
 
 Set the game up as a free for all.  
 The game is not truly free for all however due to the presence of roles (*refer to roles for more information*).  
@@ -85,7 +85,7 @@ Phantom players gain access to NW Area through abilities granting them the acces
 ![North East in pocket editon](pics/North_East_pocket.jpg)  
 The NE corner contains the questing area.  
 The Mod recons will not attack the infantry here but serve as a blockade.  
-The recons will move back at the cost of tokens. (See tokens appendix).  
+The recons will move back at the cost of tokens. (See [tokens appendix](#tokens-appendix)).  
 
 [Return to Section Menu](#map) | [Return to top](#phantom-domain-rule-books)
 
@@ -103,7 +103,7 @@ Players are allowed to interact with mod units however they would like. However,
 
 ### Main Map Mod:  
 The mod must immediately dive their central submarines. Recons and subs must be built accordingly.  
-No mod units can attack unless otherwise stated. (See tokens appendix).  
+No mod units can attack unless otherwise stated. (See [tokens appendix](#tokens-appendix) ).  
 
 The mod city at the spawning location serves as a HQ and the player is considered defeated if the city is captured unless an ability claiming not.  
 
