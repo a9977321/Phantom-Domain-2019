@@ -49,6 +49,9 @@ Ability_Hacker: You can choose a player and name his flag. If the flag condition
 
 Ability_Scout: Mod unit purchase list & mod vision cost only 1 token each. (rule)
 
+Ability_Tower_Lock: You need 3 tokens instead of 1 token to unlock your NE Area for one stage. If you're the phantom you need 
+5 token each to be able to capture your towers there. (rule) 
+
 knocklok
 
 Alliance: Neutral
@@ -78,6 +81,9 @@ knocklok, Lord Percy and Jackie Milton
 Ability_APC_factory: You can send a mod APC targeting any player for free every 5 days. (active)
 
 Ability_Avenger: When you become the target of mod piperunner or mod units players doing so will receive the same service. (passive) APC_factory wont active this ability.
+
+Ability_Tower_Lock: You need 3 tokens instead of 1 token to unlock your NE Area for one stage. If you're the phantom you need 
+5 token each to be able to capture your towers there. (rule) 
 
 Lord Percy
 
