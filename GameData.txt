@@ -4,16 +4,16 @@ Evil: CI, GS
 Good: GE, BH, RF, BD
 Neutral: YC, AB
 
-I Token info(day1 info is written down at the beginning of day2, after all requests of day1 are processed)
+I Token info(day2 info is written down at the end of OS's turn on day2. In this way the token info shows how many tokens they get on day5 and every 5 days afterward. )
 Days/Tokens     |01|02|03|04|05|
-CI clord666     |
-GE Niiue        |
-YC knocklock    |
-BH Lord Percy   |
-RF Surto3       |
-GS Jackie Milton|
-BD Tmi489       |
-AB zhaotiantong |
+CI clord666     |00|
+GE Niiue        |00|
+YC knocklock    |00|
+BH Lord Percy   |00|
+RF Surto3       |00|
+GS Jackie Milton|01|
+BD Tmi489       |00|
+AB zhaotiantong |00|
 Extra Prize: 
 
 II APC Lottery
