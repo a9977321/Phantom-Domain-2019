@@ -1,0 +1,46 @@
+Game Data_Phantom Domain 2020
+Last updated: Game Day1, on March. 24th, 2020 by a9977321
+Evil: CI, GS
+Good: GE, BH, RF, BD
+Neutral: YC, AB
+
+I Token info(day1 info is written down at the beginning of day2, after all requests of day1 are processed)
+Days/Tokens     |01|02|03|04|05|
+CI clord666     |
+GE Niiue        |
+YC knocklock    |
+BH Lord Percy   |
+RF Surto3       |
+GS Jackie Milton|
+BD Tmi489       |
+AB zhaotiantong |
+Extra Prize: 
+
+II APC Lottery
+
+III Mod Unit Purchase List & Status
+(e.g. Day10 GS mod tank after GS    destroyed)
+
+IV Game Histroy
+Day1
+The game begins! 
+GS is the phantom. 
+GS's NW Area is not unlocked due to Ability_Trickster. 
+GS got 1 token due to Ability_Trickster. 
+GS's Ability_Mastermind: Niiue, Lord Percy, Surto3 and Tmi489 are members of Alliance Good. 
+RF's Ability_Lv1_Oracle: knocklok, Lord Percy and Jackie Milton
+------
+Day2
+
+Day3
+
+Day4
+Notification of Day5
+
+Day5
+lab
+APC lottery
+Ability_Miner(YC)
+
+Day6
+Ability_token_info(CI)
