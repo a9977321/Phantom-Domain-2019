@@ -1,5 +1,5 @@
 Game Data_Phantom Domain 2020
-Last updated: Game Day1, on March. 24th, 2020 by a9977321
+Last updated: Game Day1, on March. 25th, 2020 by a9977321
 Evil: CI, GS
 Good: GE, BH, RF, BD
 Neutral: YC, AB
@@ -20,7 +20,8 @@ II APC Lottery
 
 III Mod Unit Purchase List & Status
 (e.g. Day10 GS mod tank after GS    destroyed)
-
+Days Sending countries   Mod unit  Target Country
+Day1        RF              APC          GS
 IV Game Histroy
 Day1
 The game begins! 
@@ -29,8 +30,11 @@ GS's NW Area is not unlocked due to Ability_Trickster.
 GS got 1 token due to Ability_Trickster. 
 GS's Ability_Mastermind: Niiue, Lord Percy, Surto3 and Tmi489 are members of Alliance Good. 
 RF's Ability_Lv1_Oracle: knocklok, Lord Percy and Jackie Milton
+
+RF activated Ability_APC_Factory on GS. 
 ------
 Day2
+Mod APC after GS
 
 Day3
 
