@@ -1,19 +1,19 @@
 Game Data_Phantom Domain 2020
-Last updated: Game Day1, on March. 25th, 2020 by a9977321
+Last updated: Game Day2, on March. 26th, 2020 by a9977321
 Evil: CI, GS
 Good: GE, BH, RF, BD
 Neutral: YC, AB
 
 I Token info(day2 info is written down at the end of OS's turn on day2. In this way the token info shows how many tokens they get on day5 and every 5 days afterward. )
 Days/Tokens     |01|02|03|04|05|
-CI clord666     |00|
-GE Niiue        |00|
-YC knocklock    |00|
-BH Lord Percy   |00|
-RF Surto3       |00|
-GS Jackie Milton|01|
-BD Tmi489       |00|
-AB zhaotiantong |00|
+CI clord666     |00|00|
+GE Niiue        |00|00|
+YC knocklock    |00|00|
+BH Lord Percy   |00|00|
+RF Surto3       |00|00|
+GS Jackie Milton|01|01|
+BD Tmi489       |00|00|
+AB zhaotiantong |00|00|
 Extra Prize: 
 
 II APC Lottery
@@ -32,10 +32,11 @@ GS's Ability_Mastermind: Niiue, Lord Percy, Surto3 and Tmi489 are members of All
 RF's Ability_Lv1_Oracle: knocklok, Lord Percy and Jackie Milton
 
 RF activated Ability_APC_Factory on GS. 
-------
+AB made a guess: TFFFTTFT The attempt fails
+
 Day2
 Mod APC after GS
-
+------
 Day3
 
 Day4
@@ -48,3 +49,6 @@ Ability_Miner(YC)
 
 Day6
 Ability_token_info(CI)
+AB can make another guess CD 5/5. 
+Ability_APC_Lottery(RF) CD 5/5. 
+Ability_trickster(GS)
