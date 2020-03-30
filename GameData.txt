@@ -1,19 +1,19 @@
 Game Data_Phantom Domain 2020
-Last updated: Game Day3, on March. 28th, 2020 by a9977321
+Last updated: Game Day4, on March. 30th, 2020 by a9977321
 Evil: CI, GS
 Good: GE, BH, RF, BD
 Neutral: YC, AB
 
 I Token info(day2 info is written down at the end of OS's turn on day2. In this way the token info shows how many tokens they get on day5 and every 5 days afterward. )
 Days/Tokens     |01|02|03|04|05|
-CI clord666     |00|00|00|
-GE Niiue        |00|00|00|
-YC knocklock    |00|00|00|
-BH Lord Percy   |00|00|00|
-RF Surto3       |00|00|00|
-GS Jackie Milton|01|01|00|
-BD Tmi489       |00|00|00|
-AB zhaotiantong |00|00|00|
+CI clord666     |00|00|00|00|
+GE Niiue        |00|00|00|00|
+YC knocklock    |00|00|00|00|
+BH Lord Percy   |00|00|00|00|
+RF Surto3       |00|00|00|00|
+GS Jackie Milton|01|01|00|00|
+BD Tmi489       |00|00|00|00|
+AB zhaotiantong |00|00|00|00|
 Extra Prize: 
 
 II APC Lottery
@@ -41,10 +41,10 @@ GS spent 1 token unlocking his NE Quest Area.
 Day3
 GS's NE Quest Area*1
 Mod APC after GS
-------
 Day4
 Notification of Day5
-
+Mod APC after GS
+------
 Day5
 lab
 APC lottery
