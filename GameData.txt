@@ -1,23 +1,23 @@
 Game Data_Phantom Domain 2020
-Last updated: Game Day4, on March. 30th, 2020 by a9977321
-Evil: CI, GS
+Last updated: Game Day5, on April.1st, 2020 by a9977321
+Evil: PL, GS
 Good: GE, BH, RF, BD
 Neutral: YC, AB
 
 I Token info(day2 info is written down at the end of OS's turn on day2. In this way the token info shows how many tokens they get on day5 and every 5 days afterward. )
-Days/Tokens     |01|02|03|04|05|
-CI clord666     |00|00|00|00|
-GE Niiue        |00|00|00|00|
-YC knocklock    |00|00|00|00|
-BH Lord Percy   |00|00|00|00|
-RF Surto3       |00|00|00|00|
-GS Jackie Milton|01|01|00|00|
-BD Tmi489       |00|00|00|00|
-AB zhaotiantong |00|00|00|00|
+Days/Tokens     |01|02|03|04|05|06|
+PL clord666     |00|00|00|00|01|
+GE Niiue        |00|00|00|00|00|
+YC knocklock    |00|00|00|00|01|
+BH Lord Percy   |00|00|00|00|00|
+RF Surto3       |00|00|00|00|01|
+GS Jackie Milton|01|01|00|00|00|
+BD Tmi489       |00|00|00|00|01|
+AB zhaotiantong |00|00|00|00|03|
 Extra Prize: 
 
 II APC Lottery
-
+Day5  1 token    1 token   AB
 III Mod Unit Purchase List & Status
 (e.g. Day10 GS mod tank after GS    destroyed)
 Days Sending countries   Mod unit  Target Country
@@ -44,14 +44,25 @@ Mod APC after GS
 Day4
 Notification of Day5
 Mod APC after GS
-------
 Day5
 lab
+PL got 1 token from the lab. PL recon fuel=73, 10HP NW inner
+RF got 1 token from the lab. RF recon fuel=73, 10HP SE inner
+BD got 1 token from the lab. BD recon fuel=70, 10HP S
+AB got 1 token from the lab. AB recon fuel=73, 10HP SW inner
 APC lottery
-Ability_Miner(YC)
+AB won the APC lottery. Extra Prizes are given for being the sole winner. Ab received 1+1 tokens
+YC got 1 token from Ability_Miner. 
+Mod APC after GS
 
+AB activated Ability_Hacker on RF by true flag. The flag matches. 
+-----
 Day6
 Ability_token_info(CI)
 AB can make another guess CD 5/5. 
 Ability_APC_Lottery(RF) CD 5/5. 
 Ability_trickster(GS)
+
+Mod APC after GS
+
+Reminder for Ability_Surviliance; Reminder for Ability_Curse
