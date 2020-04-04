@@ -1,27 +1,28 @@
 Game Data_Phantom Domain 2020
-Last updated: Game Day5, on April.1st, 2020 by a9977321
+Last updated: Game Day6, on April.4th, 2020 by a9977321
 Evil: PL, GS
 Good: GE, BH, RF, BD
 Neutral: YC, AB
 
 I Token info(day2 info is written down at the end of OS's turn on day2. In this way the token info shows how many tokens they get on day5 and every 5 days afterward. )
-Days/Tokens     |01|02|03|04|05|06|
-PL clord666     |00|00|00|00|01|
-GE Niiue        |00|00|00|00|00|
-YC knocklock    |00|00|00|00|01|
-BH Lord Percy   |00|00|00|00|00|
-RF Surto3       |00|00|00|00|01|
-GS Jackie Milton|01|01|00|00|00|
-BD Tmi489       |00|00|00|00|01|
-AB zhaotiantong |00|00|00|00|03|
+Days/Tokens     |01|02|03|04|05|006|007
+PL clord666     |00|00|00|00|01|000|
+GE Niiue        |00|00|00|00|00|000|
+YC knocklock    |00|00|00|00|01|001|
+BH Lord Percy   |00|00|00|00|00|000|
+RF Surto3       |00|00|00|00|01|000|
+GS Jackie Milton|01|01|00|00|00|1.5|
+BD Tmi489       |00|00|00|00|01|001|
+AB zhaotiantong |00|00|00|00|03|004|
 Extra Prize: 
 
 II APC Lottery
 Day5  1 token    1 token   AB
 III Mod Unit Purchase List & Status
 (e.g. Day10 GS mod tank after GS    destroyed)
-Days Sending countries   Mod unit  Target Country
-Day1        RF              APC          GS
+Days Sending countries   Mod unit  Target Country  Status
+Day1        RF              APC          GS        Functional
+Day5        PL             tank          GE        Functional
 IV Game Histroy
 Day1
 The game begins! 
@@ -56,13 +57,20 @@ YC got 1 token from Ability_Miner.
 Mod APC after GS
 
 AB activated Ability_Hacker on RF by true flag. The flag matches. 
------
+AB got 1 token. 
+RF lost 1 token. 
+PL activated Ability_Curse on PL by true flag. The flag matches. PL got 1 token. 
+PL spent 2 tokens sending a mod helper tank after GE. 
 Day6
-Ability_token_info(CI)
-AB can make another guess CD 5/5. 
-Ability_APC_Lottery(RF) CD 5/5. 
-Ability_trickster(GS)
-
+GS got 1.5 tokens from Ability_Trickster. 
 Mod APC after GS
+Mod tank after GE
+PL received a token info. 
+AB can make another guess CD 5/5. 
+Ability_APC_Factory(RF) CD 5/5. 
+------
 
-Reminder for Ability_Surviliance; Reminder for Ability_Curse
+Day7
+Mod APC after GS
+Mod tank after GE
+
