@@ -5,15 +5,15 @@ Good: GE, BH, RF, BD
 Neutral: YC, AB
 
 I Token info(day2 info is written down at the end of OS's turn on day2. In this way the token info shows how many tokens they get on day5 and every 5 days afterward. )
-Days/Tokens     |01|02|03|04|05|006|007
-PL clord666     |00|00|00|00|01|000|
-GE Niiue        |00|00|00|00|00|000|
-YC knocklock    |00|00|00|00|01|001|
-BH Lord Percy   |00|00|00|00|00|000|
-RF Surto3       |00|00|00|00|01|000|
-GS Jackie Milton|01|01|00|00|00|1.5|
-BD Tmi489       |00|00|00|00|01|001|
-AB zhaotiantong |00|00|00|00|03|004|
+Days/Tokens     |01|02|03|04|05|006|007|008|009|010|
+PL clord666     |00|00|00|00|01|000|000|000|
+GE Niiue        |00|00|00|00|00|000|000|000|
+YC knocklock    |00|00|00|00|01|001|001|000|
+BH Lord Percy   |00|00|00|00|00|000|000|000|
+RF Surto3       |00|00|00|00|01|000|000|000|
+GS Jackie Milton|01|01|00|00|00|1.5|1.5|1.5|
+BD Tmi489       |00|00|00|00|01|001|001|001|
+AB zhaotiantong |00|00|00|00|03|004|001|001|
 Extra Prize: 
 
 II APC Lottery
@@ -23,6 +23,8 @@ III Mod Unit Purchase List & Status
 Days Sending countries   Mod unit  Target Country  Status
 Day1        RF              APC          GS        Functional
 Day5        PL             tank          GE        Functional
+Day7        YC             tank          BH        Functional
+Day7        RF              APC          PL        Functional
 IV Game Histroy
 Day1
 The game begins! 
@@ -68,9 +70,40 @@ Mod tank after GE
 PL received a token info. 
 AB can make another guess CD 5/5. 
 Ability_APC_Factory(RF) CD 5/5. 
-------
+
+GE activated Ability_Surviliance on AB. (day7-day11)
+AB spent 3 tokens unlocking his NE Quest Area. (Ability_Tower_Lock)
+AB made a guess: FFTTTFFT The attempt fails. 
 
 Day7
+AB's NE Quest Area
 Mod APC after GS
 Mod tank after GE
+GE's Ability_Surviliance on AB (day7-day11)
 
+YC spent 1 token sending a mod helper tank after BH. (Ability_Commander)
+RF activated Ability_APC_Factory on PL.
+PL sent an anonymous private message to BH. 
+
+"Greetings BH,
+I am a humble neutral player who has discovered GS and RF are Good.
+This makes it likely that you are the phantom.
+I know who the other evil player is and if you tell me you are the phantom I will happily 
+pass on the information to that player so you can receive support which you will 
+almost certainly need in the coming battle.
+
+What do I gain from this?
+I am being paid with some lovely tokens for my services.
+Also it is in my best interests not to have the good players meet up so soon, defeat 
+the evil players and win quickly. After all, there are only 2 evil players and 4 good 
+players. Doesn't seem fair does it?
+Please reply to this message with your answer and the mod will give me your 
+response which I will forward to the other evil player and get paid!"
+
+Day8
+Mod APC after GS
+Mod APC after PL
+Mod Tank after GE
+Mod Tank after BH
+GE's Ability_Surviliance on AB (day7-day11)
+------
