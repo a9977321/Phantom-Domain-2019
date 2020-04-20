@@ -1,19 +1,19 @@
 Game Data_Phantom Domain 2020
-Last updated: Game Day6, on April.4th, 2020 by a9977321
+Last updated: Game Day9, on April.20th, 2020 by a9977321
 Evil: PL, GS
 Good: GE, BH, RF, BD
 Neutral: YC, AB
 
 I Token info(day2 info is written down at the end of OS's turn on day2. In this way the token info shows how many tokens they get on day5 and every 5 days afterward. )
-Days/Tokens     |01|02|03|04|05|006|007|008|009|010|
-PL clord666     |00|00|00|00|01|000|000|000|
-GE Niiue        |00|00|00|00|00|000|000|000|
-YC knocklock    |00|00|00|00|01|001|001|000|
-BH Lord Percy   |00|00|00|00|00|000|000|000|
-RF Surto3       |00|00|00|00|01|000|000|000|
-GS Jackie Milton|01|01|00|00|00|1.5|1.5|1.5|
-BD Tmi489       |00|00|00|00|01|001|001|001|
-AB zhaotiantong |00|00|00|00|03|004|001|001|
+Days/Tokens     |01|02|03|04|05|006|007|008|009|010|011
+PL clord666     |00|00|00|00|01|000|000|000|000|
+GE Niiue        |00|00|00|00|00|000|000|000|000|
+YC knocklock    |00|00|00|00|01|001|001|000|000|
+BH Lord Percy   |00|00|00|00|00|000|000|000|000|
+RF Surto3       |00|00|00|00|01|000|000|000|000|
+GS Jackie Milton|01|01|00|00|00|1.5|1.5|1.5|1.5|
+BD Tmi489       |00|00|00|00|01|001|001|001|000|
+AB zhaotiantong |00|00|00|00|03|004|001|001|001|
 Extra Prize: 
 
 II APC Lottery
@@ -34,7 +34,7 @@ GS got 1 token due to Ability_Trickster.
 GS's Ability_Mastermind: Niiue, Lord Percy, Surto3 and Tmi489 are members of Alliance Good. 
 RF's Ability_Lv1_Oracle: knocklok, Lord Percy and Jackie Milton
 
-RF activated Ability_APC_Factory on GS. 
+RF activated Ability_APC_Factory on GS. (CD=day6)
 AB made a guess: TFFFTTFT The attempt fails
 
 Day2
@@ -71,7 +71,7 @@ PL received a token info.
 AB can make another guess CD 5/5. 
 Ability_APC_Factory(RF) CD 5/5. 
 
-GE activated Ability_Surviliance on AB. (day7-day11)
+GE activated Ability_Surviliance on AB. (day7-day11)(cd=day11)
 AB spent 3 tokens unlocking his NE Quest Area. (Ability_Tower_Lock)
 AB made a guess: FFTTTFFT The attempt fails. 
 
@@ -82,8 +82,8 @@ Mod tank after GE
 GE's Ability_Surviliance on AB (day7-day11)
 
 YC spent 1 token sending a mod helper tank after BH. (Ability_Commander)
-RF activated Ability_APC_Factory on PL.
-PL sent an anonymous private message to BH. 
+RF activated Ability_APC_Factory on PL.(CD=DAY12)
+PL sent an anonymous private message to BH. (Ability_Mr_Anonymous)
 
 "Greetings BH,
 I am a humble neutral player who has discovered GS and RF are Good.
@@ -106,4 +106,20 @@ Mod APC after PL
 Mod Tank after GE
 Mod Tank after BH
 GE's Ability_Surviliance on AB (day7-day11)
+BH's reply to PL
+
+Aha, interesting tidings indeed! I am indeed the phantom and would dearly like to know who the other evil player is. I was already fairly sure that RF was good, I also think YC might be too. AB seems to have some knowledge of what's going on, but I'm not sure if he's good or neutral. Once I know who our enemies are we can coordinate and destroy them. 
+
+To the neutral player: your services in this matter are appreciated. If you'd reveal your identity I'll refrain from attacking you.   
+
+BD spent 1 token unlocking his NE Quest Area. 
+
+Day9
+BD's NE Quest Area
+Mod APC after GS
+Mod APC after PL
+Mod Tank after GE
+Mod Tank after BH
+GE's Ability_Surviliance on AB (day7-day11)
+Notification for day10
 ------
