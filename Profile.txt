@@ -109,7 +109,8 @@ Flag=True
 
 Victory Condition: 1. Survive until all players from Alliance Evil are defeated; 2. No other victory condition is met
 
-Ability_Recon_Patrol: A mod recon will accompany each mod land helper units you send. (passive)(revealed)
+Ability_Recon_Patrol: A mod recon will accompany each mod land helper units you send. (passive)(revealed)(upgraded to the following)
+Ability_Air_Escort: A mod recon and a mod bcopter will accompany each mod land helper units you send. (passive)
 
 Ability_Mark_of_Revenge: The player defeating you will be marked. Your alliance will be revealed and the marked player became the target of mod piperunner for 5 days, lose 3 tokens (can lead to minus 0 token counts) and a mod tank will be sent after that player in your name every day for 5 days. (passive)
 
