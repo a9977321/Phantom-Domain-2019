@@ -1,5 +1,5 @@
 Game Data_Phantom Domain 2020
-Last updated: Game Day9, on April.20th, 2020 by a9977321
+Last updated: Game Day10, on April.23rd, 2020 by a9977321
 Evil: PL, GS
 Good: GE, BH, RF, BD
 Neutral: YC, AB
@@ -17,7 +17,8 @@ AB zhaotiantong |00|00|00|00|03|004|001|001|001|003|
 Extra Prize: 
 
 II APC Lottery
-Day5  1 token    1 token   AB
+Day5  1 token       1 token         AB
+Day10 1 token    Ability Upgrade    BD
 III Mod Unit Purchase List & Status
 (e.g. Day10 GS mod tank after GS    destroyed)
 Days Sending countries   Mod unit  Target Country  Status
