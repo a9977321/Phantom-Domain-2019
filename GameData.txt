@@ -5,15 +5,15 @@ Good: GE, BH, RF, BD
 Neutral: YC, AB
 
 I Token info(day2 info is written down at the end of OS's turn on day2. In this way the token info shows how many tokens they get on day5 and every 5 days afterward. )
-Days/Tokens     |01|02|03|04|05|006|007|008|009|010|011
-PL clord666     |00|00|00|00|01|000|000|000|000|
-GE Niiue        |00|00|00|00|00|000|000|000|000|
-YC knocklock    |00|00|00|00|01|001|001|000|000|
-BH Lord Percy   |00|00|00|00|00|000|000|000|000|
-RF Surto3       |00|00|00|00|01|000|000|000|000|
-GS Jackie Milton|01|01|00|00|00|1.5|1.5|1.5|1.5|
-BD Tmi489       |00|00|00|00|01|001|001|001|000|
-AB zhaotiantong |00|00|00|00|03|004|001|001|001|
+Days/Tokens     |01|02|03|04|05|006|007|008|009|010|011|012|
+PL clord666     |00|00|00|00|01|000|000|000|000|002|
+GE Niiue        |00|00|00|00|00|000|000|000|000|1.5|
+YC knocklock    |00|00|00|00|01|001|001|000|000|002|
+BH Lord Percy   |00|00|00|00|00|000|000|000|000|001|
+RF Surto3       |00|00|00|00|01|000|000|000|000|002|
+GS Jackie Milton|01|01|00|00|00|1.5|1.5|1.5|1.5|2.5|
+BD Tmi489       |00|00|00|00|01|001|001|001|000|003|
+AB zhaotiantong |00|00|00|00|03|004|001|001|001|003|
 Extra Prize: 
 
 II APC Lottery
@@ -122,4 +122,40 @@ Mod Tank after GE
 Mod Tank after BH
 GE's Ability_Surviliance on AB (day7-day11)
 Notification for day10
+
+PL sent an anonymous private message to BH. (Ability_Mr_Anonymous)
+
+Greetings BH,
+Thank-you for your message. Unfortunately my reply will be late since I cannot 
+receive your response and send a reply via the mod on the same turn.
+
+At the current time I do not wish to reveal the identity of myself or my employer.
+My employer also thanks you for your reply, and says they will reveal themselves 
+at a later date when you share a border with them.
+
+Day10
+PL's anonymous private message.
+lab
+PL got 2 tokens from the lab. PL infantry fuel=90, HP=10 NW outer; PL infantry fuel=94, HP=10 NW inner
+GE got 1.5 tokens from the lab(Ability_1.5*_income). GE infantry fuel=88, HP=1 N
+YC got 1 token from the lab. YC infantry fuel=93, HP=10 NE outer
+BH got 1 token from the lab. BH recon fuel=63, HP=10, NE inner
+RF got 2 tokens from the lab. RF infantry fuel=95, HP=10, E; RF recon fuel=73, HP=10 SE inner
+GS got 1 token from the lab. GS infantry fuel=94, HP=10, SE outer
+BD got 2 tokens from the lab. BD recon fuel=70, HP=10, S; BD infantry fuel=94, HP=10 SW outer
+AB got 2 tokens from the lab. AB infantry fuel=90, HP=10, SW inner; AB infantry fuel=87, HP=10, W(Ability_Surviliance)
+APC lottery
+BD won the APC lottery. Extra Prizes are given for being the sole winner. The prize is 1 token+Ability Upgrade. 
+BD's Ability Recon Patrol is upgraded to Ability_Air_Escort. 
+Ability_Air_Escort: A mod recon and a mod bcopter will accompany each mod land helper units you send. (passive)
+YC got 1 token from Ability_Miner. 
+
+Mod APC after GS
+Mod APC after PL
+Mod Tank after GE
+Mod Tank after BH
+GE's Ability_Surviliance on AB (day7-day11)
 ------
+PL spent 1 token unlocking his NE Quest Area. 
+AB activated Ability_Hack on BH by false flag. The flag matches. 
+
