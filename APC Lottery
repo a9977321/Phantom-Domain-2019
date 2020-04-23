@@ -23,3 +23,14 @@ Ability_EMP: Select a player. Target player got all his abilities disabled for 5
 Ability_Scale_of_the_Justice: Redistribute all tokens in player account (rounded up). The ability can be activated only once. (active)
 Ability_Bolt: You can destroy any mod helper unit on a tile in the main map by spending 2 tokens and naming the location (x, y). 
 The ability can be used every 5 days. (active)
+
+Ability Upgrade(draft) 20200403: 
+Ability_Puppet_master: You know the identity of each good player. (i.e.   He knows that RF Surto3 is player5. )
+Ability_Enhanced_Curse: Ability_Curse: Select a player. The target player will receive buffs/debuffs based on the alliance. Good player becomes an available target of all mod helper units & piperunner for 5 days. Neutral player received 0.5* tokens from the lab for the next 10 days(unable to stack). Evil player receives 1 token.The ability can be activated every 5 days. (active)(revealed)
+Ability_Info_radar: The flag info of defeated players will be revealed in a broadcast. You will also receive a message revealing their alliance(passive)(revealed)
+Ability_Veteran_Commander: Mod helper units cost 1 token less. Additionally, you're given 1 token for each 2 mod units you have sent. (rule)
+Ability_Lv2_Oracle: You receive 2 name lists, each containing 3 players from 3 different alliances. The name on the list does not stack. 
+Ability_Judgement_Day_2.0: You can spend 10 tokens and all players of Alliance Evil will be defeated 6 days later. The ability can be activated since day30. A broadcast will be sent when the ability is activated. The process will be interrupted if you get defeated or become the victim of possible silencing ability. In those cases tokens will refunded and the ability starts a 5-day cooldown. (active)(revealed)
+*You can activate this skill after your defeat and it can only be interrupted by possible silencing abilities in that case. (You cannot be defeated twice)
+Ability_Air_Escort: A mod recon and a mod bcopter will accompany each mod land helper units you send. (passive)(revealed)
+Ability_2*_income: You got 2 tokens for occupying the lab. (rule)(revealed)
