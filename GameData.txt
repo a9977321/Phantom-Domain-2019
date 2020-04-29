@@ -1,19 +1,19 @@
 Game Data_Phantom Domain 2020
-Last updated: Game Day10, on April.23rd, 2020 by a9977321
+Last updated: Game Day11, on April.29th, 2020 by a9977321
 Evil: PL, GS
 Good: GE, BH, RF, BD
 Neutral: YC, AB
 
 I Token info(day2 info is written down at the end of OS's turn on day2. In this way the token info shows how many tokens they get on day5 and every 5 days afterward. )
 Days/Tokens     |01|02|03|04|05|006|007|008|009|010|011|012|
-PL clord666     |00|00|00|00|01|000|000|000|000|002|
-GE Niiue        |00|00|00|00|00|000|000|000|000|1.5|
-YC knocklock    |00|00|00|00|01|001|001|000|000|002|
-BH Lord Percy   |00|00|00|00|00|000|000|000|000|001|
-RF Surto3       |00|00|00|00|01|000|000|000|000|002|
-GS Jackie Milton|01|01|00|00|00|1.5|1.5|1.5|1.5|2.5|
-BD Tmi489       |00|00|00|00|01|001|001|001|000|003|
-AB zhaotiantong |00|00|00|00|03|004|001|001|001|003|
+PL clord666     |00|00|00|00|01|000|000|000|000|002|002|
+GE Niiue        |00|00|00|00|00|000|000|000|000|1.5|0.5|
+YC knocklock    |00|00|00|00|01|001|001|000|000|002|000|
+BH Lord Percy   |00|00|00|00|00|000|000|000|000|001|000|
+RF Surto3       |00|00|00|00|01|000|000|000|000|002|002|
+GS Jackie Milton|01|01|00|00|00|1.5|1.5|1.5|1.5|2.5|4.5|
+BD Tmi489       |00|00|00|00|01|001|001|001|000|003|003|
+AB zhaotiantong |00|00|00|00|03|004|001|001|001|003|001|
 Extra Prize: 
 
 II APC Lottery
@@ -26,6 +26,8 @@ Day1        RF              APC          GS        Functional
 Day5        PL             tank          GE        Functional
 Day7        YC             tank          BH        Functional
 Day7        RF              APC          PL        Functional
+Day10       YC             tank          BH        Functional
+Day10       YC             tank          BH        Functional
 IV Game Histroy
 Day1
 The game begins! 
@@ -156,7 +158,42 @@ Mod APC after PL
 Mod Tank after GE
 Mod Tank after BH
 GE's Ability_Surviliance on AB (day7-day11)
-------
+
 PL spent 1 token unlocking his NE Quest Area. 
 AB activated Ability_Hack on BH by false flag. The flag matches. 
+BH lost 1 token. 
+AB got 1 token. (Ability_Surviliance)
+PL activated Ability_Curse on PL by true flag. The flag matches. PL got 1 token. 
+GE spent 1 token unlocking his NE Quest Area. 
+YC spent 2 tokens sending 2 mod tanks after BH. (Ability_Commander)
+BH is unable to donate 1 token to YC for not having enough tokens. 
+RF is unable to unlock his NE Quest Area for a lack of tokens. (Ability_Tower_Lock)
+PL sent an anonymous mod message to BH. (Ability_Mr_Anonymous)
 
+Greetings BH,
+This is from my patron (the player paying me in delicious tokens):
+
+Your response to my last message will be delayed (also because of mod turn order) 
+so I will have sent this before I received your reply.
+I would like to know why you are fighting YC. As the phantom you know the identity 
+of all the good players. I have received intel from several players that YC is neutral 
+and at peace with other players, so why are you solely at war with YC?
+
+AB spent 3 tokens unlocking his NE Quest Area. (Ability_Tower_Lock)
+
+Day11
+PL's anonymous private message.
+GE's NE Quest Area
+AB's NE Quest Area
+GS got 2 tokens from Ability_Trickster. 
+Mod APC after GS
+Mod APC after PL
+Mod Tank after GE
+Mod Tank after BH
+Mod Tank after BH
+Mod Tank after BH
+GE's Ability_Surviliance on AB (day7-day11)
+PL received a token info. 
+
+AB can make another guess CD 5/5 
+Ability_Surviliance(GE) CD 5/5
