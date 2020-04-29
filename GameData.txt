@@ -5,8 +5,8 @@ Good: GE, BH, RF, BD
 Neutral: YC, AB
 
 I Token info(day2 info is written down at the end of OS's turn on day2. In this way the token info shows how many tokens they get on day5 and every 5 days afterward. )
-Days/Tokens     |01|02|03|04|05|006|007|008|009|010|011|012|
-PL clord666     |00|00|00|00|01|000|000|000|000|002|002|
+Days/Tokens     |01|02|03|04|05|006|007|008|009|010|011|012|013
+PL clord666     |00|00|00|00|01|000|000|000|000|002|002|002|
 GE Niiue        |00|00|00|00|00|000|000|000|000|1.5|0.5|
 YC knocklock    |00|00|00|00|01|001|001|000|000|002|000|
 BH Lord Percy   |00|00|00|00|00|000|000|000|000|001|000|
@@ -185,6 +185,7 @@ Day11
 PL's anonymous private message.
 GE's NE Quest Area
 AB's NE Quest Area
+(PL's NE Quest Area is forgotten----refunded)
 GS got 2 tokens from Ability_Trickster. 
 Mod APC after GS
 Mod APC after PL
@@ -197,3 +198,14 @@ PL received a token info.
 
 AB can make another guess CD 5/5 
 Ability_Surviliance(GE) CD 5/5
+------
+PL spent 1 token unlocking his NE Quest Area. 
+
+Day12
+PL's NE Quest Area
+Mod APC after GS
+Mod APC after PL
+Mod Tank after GE
+Mod Tank after BH
+Mod Tank after BH
+Mod Tank after BH
