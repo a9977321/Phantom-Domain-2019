@@ -7,13 +7,13 @@ Neutral: YC, AB
 I Token info(day2 info is written down at the end of OS's turn on day2. In this way the token info shows how many tokens they get on day5 and every 5 days afterward. )
 Days/Tokens     |01|02|03|04|05|006|007|008|009|010|011|012|013
 PL clord666     |00|00|00|00|01|000|000|000|000|002|002|002|
-GE Niiue        |00|00|00|00|00|000|000|000|000|1.5|0.5|
-YC knocklock    |00|00|00|00|01|001|001|000|000|002|000|
-BH Lord Percy   |00|00|00|00|00|000|000|000|000|001|000|
-RF Surto3       |00|00|00|00|01|000|000|000|000|002|002|
-GS Jackie Milton|01|01|00|00|00|1.5|1.5|1.5|1.5|2.5|4.5|
-BD Tmi489       |00|00|00|00|01|001|001|001|000|003|003|
-AB zhaotiantong |00|00|00|00|03|004|001|001|001|003|001|
+GE Niiue        |00|00|00|00|00|000|000|000|000|1.5|0.5|0.5|
+YC knocklock    |00|00|00|00|01|001|001|000|000|002|000|000|
+BH Lord Percy   |00|00|00|00|00|000|000|000|000|001|000|000|
+RF Surto3       |00|00|00|00|01|000|000|000|000|002|002|000|
+GS Jackie Milton|01|01|00|00|00|1.5|1.5|1.5|1.5|2.5|4.5|3.5|
+BD Tmi489       |00|00|00|00|01|001|001|001|000|003|003|003|
+AB zhaotiantong |00|00|00|00|03|004|001|001|001|003|001|001|
 Extra Prize: 
 
 II APC Lottery
@@ -23,7 +23,7 @@ III Mod Unit Purchase List & Status
 (e.g. Day10 GS mod tank after GS    destroyed)
 Days Sending countries   Mod unit  Target Country  Status
 Day1        RF              APC          GS        Functional
-Day5        PL             tank          GE        Functional
+Day5        PL             tank          GE        Destroyed
 Day7        YC             tank          BH        Functional
 Day7        RF              APC          PL        Functional
 Day10       YC             tank          BH        Functional
@@ -195,17 +195,33 @@ Mod Tank after BH
 Mod Tank after BH
 GE's Ability_Surviliance on AB (day7-day11)
 PL received a token info. 
-
 AB can make another guess CD 5/5 
 Ability_Surviliance(GE) CD 5/5
-------
+
 PL spent 1 token unlocking his NE Quest Area. 
+BH's reply to PL
+
+I've received the same intel as you that YC is neutral. I'm at war with him partly because of simple opportunism and partly because of long-term planning. 
+
+Very early I had the opportunity to snatch the base at 23,22, and did so. I figured with a 4:2 lead in bases I'd be in a position to win a fight with YC, which would set me up to later take on the good players. And of course I don't want to tip my hand to the good team too soon - hence not attacking them while I focus on YC. 
+
+Having said that my war with YC is stalling somewhat (mostly because of some irritating mod units, I suspect he's player 4). Obviously I don't know where you're situated or if you're in a position to assist but if you could offer any help it would speed things up a bit.  
+
+GS gifted 1 tokon to RF. 
+RF spent 3 tokens unlocking his NE Quest Area. (Ability_Tower_Lock)
+AB made a guess. FTFFTTFT The attempt fails. 
 
 Day12
 PL's NE Quest Area
+RF's NE Quest Area
 Mod APC after GS
 Mod APC after PL
-Mod Tank after GE
 Mod Tank after BH
 Mod Tank after BH
 Mod Tank after BH
+
+Ability_APC_Factory(RF) CD 5/5
+------
+
+
+Day13
