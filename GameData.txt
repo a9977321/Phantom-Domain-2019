@@ -25,7 +25,7 @@ Days Sending countries   Mod unit  Target Country  Status
 Day1        RF              APC          GS        Functional
 Day5        PL             tank          GE        Destroyed
 Day7        YC             tank          BH        Functional
-Day7        RF              APC          PL        Functional
+Day7        RF              APC          PL        Destroyed
 Day10       YC             tank          BH        Functional
 Day10       YC             tank          BH        Functional
 IV Game Histroy
