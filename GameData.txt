@@ -1,20 +1,20 @@
 Game Data_Phantom Domain 2020
-Last updated: Game Day11, on April.29th, 2020 by a9977321
+Last updated: Game Day13, on May. 14th, 2020 by a9977321
 Evil: PL, GS
 Good: GE, BH, RF, BD
 Neutral: YC, AB
 
 I Token info(day2 info is written down at the end of OS's turn on day2. In this way the token info shows how many tokens they get on day5 and every 5 days afterward. )
-Days/Tokens     |01|02|03|04|05|006|007|008|009|010|011|012|013
-PL clord666     |00|00|00|00|01|000|000|000|000|002|002|002|
-GE Niiue        |00|00|00|00|00|000|000|000|000|1.5|0.5|0.5|
-YC knocklock    |00|00|00|00|01|001|001|000|000|002|000|000|
-BH Lord Percy   |00|00|00|00|00|000|000|000|000|001|000|000|
-RF Surto3       |00|00|00|00|01|000|000|000|000|002|002|000|
-GS Jackie Milton|01|01|00|00|00|1.5|1.5|1.5|1.5|2.5|4.5|3.5|
-BD Tmi489       |00|00|00|00|01|001|001|001|000|003|003|003|
-AB zhaotiantong |00|00|00|00|03|004|001|001|001|003|001|001|
-Extra Prize: 
+Days/Tokens     |01|02|03|04|05|006|007|008|009|010|011|012|013|014|015
+PL clord666     |00|00|00|00|01|000|000|000|000|002|002|002|002|
+GE Niiue        |00|00|00|00|00|000|000|000|000|1.5|0.5|0.5|0.5|
+YC knocklock    |00|00|00|00|01|001|001|000|000|002|000|000|000|out
+BH Lord Percy   |00|00|00|00|00|000|000|000|000|001|000|000|000|
+RF Surto3       |00|00|00|00|01|000|000|000|000|002|002|000|000|
+GS Jackie Milton|01|01|00|00|00|1.5|1.5|1.5|1.5|2.5|4.5|3.5|3.5|
+BD Tmi489       |00|00|00|00|01|001|001|001|000|003|003|003|003|
+AB zhaotiantong |00|00|00|00|03|004|001|001|001|003|001|001|001|
+Extra Prize: free mod APC*1: PL
 
 II APC Lottery
 Day5  1 token       1 token         AB
@@ -185,7 +185,7 @@ Day11
 PL's anonymous private message.
 GE's NE Quest Area
 AB's NE Quest Area
-(PL's NE Quest Area is forgotten----refunded)
+(PL's NE Quest Area is forgotten----refunded)--PL received a free APC as compensation. 
 GS got 2 tokens from Ability_Trickster. 
 Mod APC after GS
 Mod APC after PL
@@ -221,7 +221,30 @@ Mod Tank after BH
 Mod Tank after BH
 
 Ability_APC_Factory(RF) CD 5/5
-------
 
+PL sent an anonymous message to BH. (Ability_Mr_Anonymous)
+
+Greetings BH,
+This is likely the last message you will receive from me for a while, my patron has 
+received all the info they wanted so my services are currently not being engaged.
+So this is a message from myself personally (though you will again receive it late 
+due to mod turn order so some of the info may no longer matter).
+
+You may of course engage my services as well!
+I offer anonymous mod messages sent for only half a token, that's half price!
+You won't find a better deal elsewhere 😂
+
+My patron may choose to help your fight, I'm not sure, but it seems likely.
+I personally won't participate since it's not in my interest...
 
 Day13
+PL's mod message
+YC resigned. 
+Revealing YC's flag info(Ability_Flag_detector)
+Mod APC after GS
+Mod Tank after BH
+Mod Tank after BH
+Mod Tank after BH
+
+
+------
