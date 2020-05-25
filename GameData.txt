@@ -6,14 +6,14 @@ Neutral: YC, AB
 
 I Token info(day2 info is written down at the end of OS's turn on day2. In this way the token info shows how many tokens they get on day5 and every 5 days afterward. )
 Days/Tokens     |01|02|03|04|05|006|007|008|009|010|011|012|013|014|015
-PL clord666     |00|00|00|00|01|000|000|000|000|002|002|002|002|
-GE Niiue        |00|00|00|00|00|000|000|000|000|1.5|0.5|0.5|0.5|
+PL clord666     |00|00|00|00|01|000|000|000|000|002|002|002|002|002|
+GE Niiue        |00|00|00|00|00|000|000|000|000|1.5|0.5|0.5|0.5|0.5|
 YC knocklock    |00|00|00|00|01|001|001|000|000|002|000|000|000|out
-BH Lord Percy   |00|00|00|00|00|000|000|000|000|001|000|000|000|
-RF Surto3       |00|00|00|00|01|000|000|000|000|002|002|000|000|
-GS Jackie Milton|01|01|00|00|00|1.5|1.5|1.5|1.5|2.5|4.5|3.5|3.5|
-BD Tmi489       |00|00|00|00|01|001|001|001|000|003|003|003|003|
-AB zhaotiantong |00|00|00|00|03|004|001|001|001|003|001|001|001|
+BH Lord Percy   |00|00|00|00|00|000|000|000|000|001|000|000|000|000|
+RF Surto3       |00|00|00|00|01|000|000|000|000|002|002|000|000|000|
+GS Jackie Milton|01|01|00|00|00|1.5|1.5|1.5|1.5|2.5|4.5|3.5|3.5|3.5|
+BD Tmi489       |00|00|00|00|01|001|001|001|000|003|003|003|003|002|
+AB zhaotiantong |00|00|00|00|03|004|001|001|001|003|001|001|001|001|
 Extra Prize: free mod APC*1: PL
 
 II APC Lottery
@@ -246,5 +246,38 @@ Mod Tank after BH
 Mod Tank after BH
 Mod Tank after BH
 
+PL sent an anonymous message to GS. (Ability_Mr_Anonymous)
+
+Greetings GS, I have determined you are likely to be the Phantom.
+
+Firstly, rest assured that I am the other evil player. Unfortunately I can't reveal which 
+country I am yet, I have to keep myself safe.
+One of my abilities allows me to track token numbers to an extent, which works well 
+with my Curse ability. 
+On day 11 you gained tokens, most likely due to an ability since lab and APC tokens 
+were given the previous day. However, on day 11 BH also lost tokens (but did not 
+spend them on mod units or questing area purchase). This makes it likely you used 
+a steal ability on them.
+On day 6 you also gained tokens while RF lost token, probably another steal ability 
+activation.
+Steal ability is for evil players and BH is good players and Phantom knows the good 
+players so can target them. Therefore you are most likely the Phantom!
+
+If I am correct please reply with a link to a screenshot showing the NW Quadrant 
+capture area being yours. This will confirm beyond doubt that you are the Phantom 
+so I may feel safe revealing which country I am.
+I could use my Ability_Curse to find out as well, but I'd rather not waste it if I can find 
+out this way without it.  
+
+BD spent 1 token unlocking his NE Quest Area. 
+
+Day14
+PL's mod message
+BD's NE Quest Area
+Mod APC after GS
+Mod Tank after BH
+Mod Tank after BH
+Mod Tank after BH
+Notification of Day14
 
 ------
