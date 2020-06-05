@@ -1,24 +1,25 @@
 Game Data_Phantom Domain 2020
-Last updated: Game Day13, on May. 14th, 2020 by a9977321
+Last updated: Game Day15, on June. 5th, 2020 by a9977321
 Evil: PL, GS
 Good: GE, BH, RF, BD
 Neutral: YC, AB
 
 I Token info(day2 info is written down at the end of OS's turn on day2. In this way the token info shows how many tokens they get on day5 and every 5 days afterward. )
-Days/Tokens     |01|02|03|04|05|006|007|008|009|010|011|012|013|014|015
-PL clord666     |00|00|00|00|01|000|000|000|000|002|002|002|002|002|
-GE Niiue        |00|00|00|00|00|000|000|000|000|1.5|0.5|0.5|0.5|0.5|
+Days/Tokens     |01|02|03|04|05|006|007|008|009|010|011|012|013|014|015|016
+PL clord666     |00|00|00|00|01|000|000|000|000|002|002|002|002|002|005|
+GE Niiue        |00|00|00|00|00|000|000|000|000|1.5|0.5|0.5|0.5|0.5|0.5|
 YC knocklock    |00|00|00|00|01|001|001|000|000|002|000|000|000|out
-BH Lord Percy   |00|00|00|00|00|000|000|000|000|001|000|000|000|000|
-RF Surto3       |00|00|00|00|01|000|000|000|000|002|002|000|000|000|
-GS Jackie Milton|01|01|00|00|00|1.5|1.5|1.5|1.5|2.5|4.5|3.5|3.5|3.5|
-BD Tmi489       |00|00|00|00|01|001|001|001|000|003|003|003|003|002|
-AB zhaotiantong |00|00|00|00|03|004|001|001|001|003|001|001|001|001|
+BH Lord Percy   |00|00|00|00|00|000|000|000|000|001|000|000|000|000|002|
+RF Surto3       |00|00|00|00|01|000|000|000|000|002|002|000|000|000|002|
+GS Jackie Milton|01|01|00|00|00|1.5|1.5|1.5|1.5|2.5|4.5|3.5|3.5|3.5|5.5|
+BD Tmi489       |00|00|00|00|01|001|001|001|000|003|003|003|003|002|003|
+AB zhaotiantong |00|00|00|00|03|004|001|001|001|003|001|001|001|001|003|
 Extra Prize: free mod APC*1: PL
 
 II APC Lottery
-Day5  1 token       1 token         AB
-Day10 1 token    Ability Upgrade    BD
+Day5  1 token                        1 token                          AB
+Day10 1 token                        Ability Upgrade                  BD
+Day15 4-token-value mod unit pack    Mod lab info of day5, 10 and 15  GS
 III Mod Unit Purchase List & Status
 (e.g. Day10 GS mod tank after GS    destroyed)
 Days Sending countries   Mod unit  Target Country  Status
@@ -26,7 +27,7 @@ Day1        RF              APC          GS        Functional
 Day5        PL             tank          GE        Destroyed
 Day7        YC             tank          BH        Functional
 Day7        RF              APC          PL        Destroyed
-Day10       YC             tank          BH        Functional
+Day10       YC             tank          BH        Destroyed
 Day10       YC             tank          BH        Functional
 IV Game Histroy
 Day1
@@ -287,6 +288,17 @@ Your neighbour GE is very strong and dangerous!!!
 Day15
 PL's anonymous message
 lab
+PL got 3 tokens from the lab. PL infantry fuel=82, HP=5 NW outer; PL infantry fuel=92, HP=10 NW inner; PL tank fuel=42, ammo=8, HP=10 N
+BH got 2 tokens from the lab. BH infantry fuel=86, HP=10 NE outer; BH infantry fuel=92, HP=10 NE inner
+RF got 2 tokens from the lab. RF infantry fuel=95, HP=10 E; RF recon fuel=73, hp=10 SE inner
+GS got 2 tokens from the lab. GS infantry fuel=94, HP=10 SE outer; GS infantry fuel=87, HP=10 S
+BD got 1 token from the lab. BD infantry fuel=94, HP=10 SW outer
+AB got 2 tokens from the lab. AB infantry fuel=92, HP=10 SW inner; AB infantry fuel=87, HP=10 W
+APC lottery
+GS won the APC lottery. Extra Prizes are given for being the sole winner. The prize is 4-token-value mod unit pack+Mod lab info of day5, 10 and 15. 
+Mod APC after GS
+Mod Tank after BH(Ability_the_pit)
+Mod Tank after BH
+Mod Tank after BH
 
-APC
-
+----------
