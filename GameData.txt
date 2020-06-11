@@ -1,34 +1,42 @@
 Game Data_Phantom Domain 2020
-Last updated: Game Day15, on June. 5th, 2020 by a9977321
+Last updated: Game Day16, on June. 11th, 2020 by a9977321
 Evil: PL, GS
 Good: GE, BH, RF, BD
 Neutral: YC, AB
 
 I Token info(day2 info is written down at the end of OS's turn on day2. In this way the token info shows how many tokens they get on day5 and every 5 days afterward. )
-Days/Tokens     |01|02|03|04|05|006|007|008|009|010|011|012|013|014|015|016
-PL clord666     |00|00|00|00|01|000|000|000|000|002|002|002|002|002|005|
-GE Niiue        |00|00|00|00|00|000|000|000|000|1.5|0.5|0.5|0.5|0.5|0.5|
+Days/Tokens     |01|02|03|04|05|006|007|008|009|010|011|012|013|014|015|016|017|
+PL clord666     |00|00|00|00|01|000|000|000|000|002|002|002|002|002|005|005|
+GE Niiue        |00|00|00|00|00|000|000|000|000|1.5|0.5|0.5|0.5|0.5|0.5|0.5|
 YC knocklock    |00|00|00|00|01|001|001|000|000|002|000|000|000|out
-BH Lord Percy   |00|00|00|00|00|000|000|000|000|001|000|000|000|000|002|
-RF Surto3       |00|00|00|00|01|000|000|000|000|002|002|000|000|000|002|
-GS Jackie Milton|01|01|00|00|00|1.5|1.5|1.5|1.5|2.5|4.5|3.5|3.5|3.5|5.5|
-BD Tmi489       |00|00|00|00|01|001|001|001|000|003|003|003|003|002|003|
-AB zhaotiantong |00|00|00|00|03|004|001|001|001|003|001|001|001|001|003|
+BH Lord Percy   |00|00|00|00|00|000|000|000|000|001|000|000|000|000|002|002|
+RF Surto3       |00|00|00|00|01|000|000|000|000|002|002|000|000|000|002|002|
+GS Jackie Milton|01|01|00|00|00|1.5|1.5|1.5|1.5|2.5|4.5|3.5|3.5|3.5|5.5|003|
+BD Tmi489       |00|00|00|00|01|001|001|001|000|003|003|003|003|002|003|001|
+AB zhaotiantong |00|00|00|00|03|004|001|001|001|003|001|001|001|001|003|0.5|
 Extra Prize: free mod APC*1: PL
+4-token-value mod unit pack: GS (used)
 
 II APC Lottery
 Day5  1 token                        1 token                          AB
 Day10 1 token                        Ability Upgrade                  BD
 Day15 4-token-value mod unit pack    Mod lab info of day5, 10 and 15  GS
+Day20
 III Mod Unit Purchase List & Status
 (e.g. Day10 GS mod tank after GS    destroyed)
 Days Sending countries   Mod unit  Target Country  Status
 Day1        RF              APC          GS        Functional
 Day5        PL             tank          GE        Destroyed
-Day7        YC             tank          BH        Functional
+Day7        YC             tank          BH        Destroyed
 Day7        RF              APC          PL        Destroyed
 Day10       YC             tank          BH        Destroyed
-Day10       YC             tank          BH        Functional
+Day10       YC             tank          BH        Destroyed
+Day16       RF              APC          GE        Functional
+Day16       GS           Megatank        RF        Functional
+Day16       RF           Megatank        RF        Functional
+Day16       BD             tank          GS        Functional
+Day16       BD            Recon          GS        Functional
+Day16       BD            Bcopter        GS        Functional
 IV Game Histroy
 Day1
 The game begins! 
@@ -301,4 +309,59 @@ Mod Tank after BH(Ability_the_pit)
 Mod Tank after BH
 Mod Tank after BH
 
-----------
+PL sent an anonymous message to GS. (Ability_Mr_Anonymous)
+
+No response? How disappointing.
+Perhaps you don't trust an anonymous message, so here is further proof I am the 
+other evil player (I have blocked out reference to my country and flag): 
+https://i.imgur.com/PkibfHx.png
+Perhaps now you trust me?
+Please send me the image of the NW Area to confirm you are the Phantom so I can 
+reveal my country.
+
+Also, several other players (including good ones) suspect you are the Phantom.
+You may be Lash, but I hope you've been building stealths to hide (literally) your 
+extra-income in a strong but undetected army.
+I recommend that army be pointed at RF and not AB. 
+AB could end up supporting the evil cause, and RF may soon be distracted by other 
+wars so leave his starting area vulnerable. 
+
+GE activated Ability Surviliance on PL. (day16-day20)
+RF activated Ability_APC_Factory on GE. 
+GS used 4-token-value mod unit pack. 
+GS spent 2+4 tokens sending a mod Megatank after RF. 
+RF sent a mod Megatank after GS. (Ability_Avenger)
+GS spent 3 tokens activating mod piperunner on RF. 
+RF activated mod piperunner on GS. (Ability_Avenger)
+BD spent 2 tokens sending a mod tank after GS. 
+BD sent a mod bcopter after GS. (Ability_Air_Escort)
+BD sent a mod recon after GS. (Ability_Air_Escort)
+AB activated Ability_Hack on BH by false flag. The flag matches. 
+GS got only 0.5 tokens. GS lost 0.5 tokens. 
+AB got 0.5 tokens. 
+AB spent 3 tokens unlocking his NE Quest Area. (Ability_Tower_Lock)
+
+
+Day16
+PL's mod message
+AB's NE Quest Area
+GS's access to NW Area (Ability_Trickster)
+GS got 3 tokens from Ability_Trickster. 
+GE's Ability_Surviliance on PL (day16-day20)
+
+Piperunner attack on RF(day16-day20)
+Piperunner attack on GS(day16-day20)
+Mod APC after GS
+Mod APC after GE
+Mod tank after GS
+Mod Tank after BH(Ability_the_pit)
+Mod Tank after BH(Ability_the_pit)
+Mod Megatank after RF
+Mod Megatank after GS
+Mod recon after GS
+Mod Bcopter after GS
+
+AB can make another guess CD 5/5 
+PL received a token info. 
+
+------
