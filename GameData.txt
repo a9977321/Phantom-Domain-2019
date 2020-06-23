@@ -1,19 +1,19 @@
 Game Data_Phantom Domain 2020
-Last updated: Game Day16, on June. 11th, 2020 by a9977321
+Last updated: Game Day17, on June. 18th, 2020 by a9977321
 Evil: PL, GS
 Good: GE, BH, RF, BD
 Neutral: YC, AB
 
 I Token info(day2 info is written down at the end of OS's turn on day2. In this way the token info shows how many tokens they get on day5 and every 5 days afterward. )
 Days/Tokens     |01|02|03|04|05|006|007|008|009|010|011|012|013|014|015|016|017|018
-PL clord666     |00|00|00|00|01|000|000|000|000|002|002|002|002|002|005|005|000|
-GE Niiue        |00|00|00|00|00|000|000|000|000|1.5|0.5|0.5|0.5|0.5|0.5|0.5|0.5|
+PL clord666     |00|00|00|00|01|000|000|000|000|002|002|002|002|002|005|005|000|out
+GE Niiue        |00|00|00|00|00|000|000|000|000|1.5|0.5|0.5|0.5|0.5|0.5|0.5|0.5|out
 YC knocklock    |00|00|00|00|01|001|001|000|000|002|000|000|000|out
-BH Lord Percy   |00|00|00|00|00|000|000|000|000|001|000|000|000|000|002|002|002|
-RF Surto3       |00|00|00|00|01|000|000|000|000|002|002|000|000|000|002|002|002|
-GS Jackie Milton|01|01|00|00|00|1.5|1.5|1.5|1.5|2.5|4.5|3.5|3.5|3.5|5.5|003|003|
-BD Tmi489       |00|00|00|00|01|001|001|001|000|003|003|003|003|002|003|001|001|
-AB zhaotiantong |00|00|00|00|03|004|001|001|001|003|001|001|001|001|003|0.5|0.5|
+BH Lord Percy   |00|00|00|00|00|000|000|000|000|001|000|000|000|000|002|002|002|out
+RF Surto3       |00|00|00|00|01|000|000|000|000|002|002|000|000|000|002|002|002|out
+GS Jackie Milton|01|01|00|00|00|1.5|1.5|1.5|1.5|2.5|4.5|3.5|3.5|3.5|5.5|003|003|out
+BD Tmi489       |00|00|00|00|01|001|001|001|000|003|003|003|003|002|003|001|001|out
+AB zhaotiantong |00|00|00|00|03|004|001|001|001|003|001|001|001|001|003|0.5|0.5|0.5
 Extra Prize: free mod APC*1: PL
 4-token-value mod unit pack: GS (used)
 
@@ -374,6 +374,7 @@ GE's Ability_Surviliance on PL (day16-day20)
 
 Congratulations to AB for winning the game. 
 --End game--
+End game elimination Process
 
 Piperunner attack on RF(day16-day20)
 Piperunner attack on GS(day16-day20)
@@ -385,4 +386,9 @@ Mod Megatank after BH
 Mod Megatank after GS
 Mod recon after GS
 Mod Bcopter after GS
-------
+
+Publicate the basic info
+Day18
+End game elimination Process
+Resign
+
